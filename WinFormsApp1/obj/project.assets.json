@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dz\\С#\\3\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "G:\\dz\\C#\\3\\WinFormsApp1\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "D:\\dz\\С#\\3\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectPath": "G:\\dz\\C#\\3\\WinFormsApp1\\WinFormsApp1.csproj",
       "packagesPath": "C:\\Users\\EFIMP\\.nuget\\packages\\",
-      "outputPath": "D:\\dz\\С#\\3\\WinFormsApp1\\obj\\",
+      "outputPath": "G:\\dz\\C#\\3\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program\\Microsoft Visual Studio\\Shared\\NuGetPackages"

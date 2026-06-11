@@ -1677,11 +1677,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dz\\С#\\3\\WinFormsApp1Tests\\WinFormsApp1Tests.csproj",
+      "projectUniqueName": "G:\\dz\\C#\\3\\WinFormsApp1Tests\\WinFormsApp1Tests.csproj",
       "projectName": "WinFormsApp1Tests",
-      "projectPath": "D:\\dz\\С#\\3\\WinFormsApp1Tests\\WinFormsApp1Tests.csproj",
+      "projectPath": "G:\\dz\\C#\\3\\WinFormsApp1Tests\\WinFormsApp1Tests.csproj",
       "packagesPath": "C:\\Users\\EFIMP\\.nuget\\packages\\",
-      "outputPath": "D:\\dz\\С#\\3\\WinFormsApp1Tests\\obj\\",
+      "outputPath": "G:\\dz\\C#\\3\\WinFormsApp1Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1702,8 +1702,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\dz\\С#\\3\\WinFormsApp1\\WinFormsApp1.csproj": {
-              "projectPath": "D:\\dz\\С#\\3\\WinFormsApp1\\WinFormsApp1.csproj"
+            "G:\\dz\\C#\\3\\WinFormsApp1\\WinFormsApp1.csproj": {
+              "projectPath": "G:\\dz\\C#\\3\\WinFormsApp1\\WinFormsApp1.csproj"
             }
           }
         }

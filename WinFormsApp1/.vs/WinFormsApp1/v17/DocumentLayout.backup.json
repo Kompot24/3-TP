@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\dz\\\u0421#\\3\\WinFormsApp1\\",
+  "WorkspaceRootPath": "E:\\dz\\C#\\3\\WinFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\dz\\C#\\3\\WinFormsApp1Tests\\LogicTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E60A79C-F36D-40D6-9D03-5FDD226F28B3}|WinFormsApp1.csproj|e:\\dz\\c#\\3\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E60A79C-F36D-40D6-9D03-5FDD226F28B3}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E60A79C-F36D-40D6-9D03-5FDD226F28B3}|WinFormsApp1.csproj|d:\\dz\\\u0441#\\3\\winformsapp1\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E60A79C-F36D-40D6-9D03-5FDD226F28B3}|WinFormsApp1.csproj|e:\\dz\\c#\\3\\winformsapp1\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E60A79C-F36D-40D6-9D03-5FDD226F28B3}|WinFormsApp1.csproj|solutionrelative:fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E60A79C-F36D-40D6-9D03-5FDD226F28B3}|WinFormsApp1.csproj|d:\\dz\\\u0441#\\3\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E60A79C-F36D-40D6-9D03-5FDD226F28B3}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A91FC898-35C7-4717-967A-20F4A1E6632F}|..\\WinFormsApp1Tests\\WinFormsApp1Tests.csproj|e:\\dz\\c#\\3\\winformsapp1tests\\logictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E60A79C-F36D-40D6-9D03-5FDD226F28B3}|WinFormsApp1.csproj|D:\\dz\\\u0421#\\3\\WinFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8E60A79C-F36D-40D6-9D03-5FDD226F28B3}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8E60A79C-F36D-40D6-9D03-5FDD226F28B3}|WinFormsApp1.csproj|e:\\dz\\c#\\3\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E60A79C-F36D-40D6-9D03-5FDD226F28B3}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,52 +25,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LogicTests.cs",
-              "DocumentMoniker": "G:\\dz\\C#\\3\\WinFormsApp1Tests\\LogicTests.cs",
-              "ToolTip": "G:\\dz\\C#\\3\\WinFormsApp1Tests\\LogicTests.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\dz\\C#\\3\\WinFormsApp1Tests\\LogicTests.cs",
+              "RelativeDocumentMoniker": "..\\WinFormsApp1Tests\\LogicTests.cs",
+              "ToolTip": "E:\\dz\\C#\\3\\WinFormsApp1Tests\\LogicTests.cs",
+              "RelativeToolTip": "..\\WinFormsApp1Tests\\LogicTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T09:27:38.371Z",
+              "WhenOpened": "2026-03-17T04:01:14.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Fraction.cs",
-              "DocumentMoniker": "D:\\dz\\\u0421#\\3\\WinFormsApp1\\Fraction.cs",
+              "DocumentMoniker": "E:\\dz\\C#\\3\\WinFormsApp1\\Fraction.cs",
               "RelativeDocumentMoniker": "Fraction.cs",
-              "ToolTip": "D:\\dz\\\u0421#\\3\\WinFormsApp1\\Fraction.cs",
+              "ToolTip": "E:\\dz\\C#\\3\\WinFormsApp1\\Fraction.cs",
               "RelativeToolTip": "Fraction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T07:01:14.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\dz\\\u0421#\\3\\WinFormsApp1\\Form1.cs",
+              "DocumentMoniker": "E:\\dz\\C#\\3\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\dz\\\u0421#\\3\\WinFormsApp1\\Form1.cs",
+              "ToolTip": "E:\\dz\\C#\\3\\WinFormsApp1\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T06:40:09.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\dz\\\u0421#\\3\\WinFormsApp1\\Form1.cs",
+              "DocumentMoniker": "E:\\dz\\C#\\3\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\dz\\\u0421#\\3\\WinFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "E:\\dz\\C#\\3\\WinFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T06:39:56.98Z",
